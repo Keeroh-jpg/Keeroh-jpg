@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🌱 I'm new to coding in general and currently learning how to code with Python using Boot.dev!
+- Below you can see my progress so far!
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/fade0773-58b1-4139-b2d8-722c57e5ef0d/thumbnail" >
+</p>
 <!--
 **Keeroh-jpg/Keeroh-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
